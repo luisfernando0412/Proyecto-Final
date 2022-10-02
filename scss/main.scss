@@ -1,0 +1,11 @@
+@import'./_base/extend';
+@import'./_base/variables.scss';
+
+
+@import'./section/main';
+@import'./section/header';
+@import'./section/footer'; 
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}

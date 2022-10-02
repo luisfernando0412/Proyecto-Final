@@ -1,0 +1,28 @@
+.menu{background-image: radial-gradient(rgb(255, 255, 255) , rgb(27, 121, 175)75%);
+   
+}
+.imagenuno{
+    display: grid;
+    justify-items: center;
+}
+
+h1.animate__heartBeat{ 
+    display: grid;
+    justify-content: center;
+}
+
+
+.card{
+    width: 25vw;
+    margin: 0 auto;
+}
+.card {width: 300px;}
+
+/* tarjeta de sucursal */
+.row.row-cols-1.row-cols-sm-2.g-3 {
+    width: 100%;
+    margin: 0 auto;
+}
+.boton-registrar {
+    padding: 2.5%;
+}

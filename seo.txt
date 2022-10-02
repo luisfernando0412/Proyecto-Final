@@ -1,0 +1,3 @@
+-converti todas las imagenes en jpg
+-se aplico el keyword
+-se aplico el animacion a los titulos 

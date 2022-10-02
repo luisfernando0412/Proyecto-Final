@@ -1,0 +1,20 @@
+.formi{display: grid;
+    flex-direction: column;
+    align-items: center;}
+.boton-registrar{
+    display: grid;
+    justify-content: center;
+}
+    .col{padding: 25px;}
+
+.footer {
+    background-color: #193764;
+color: rgb(255, 255, 255);
+    padding: 2px;
+}
+
+footer .iconos {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;}
